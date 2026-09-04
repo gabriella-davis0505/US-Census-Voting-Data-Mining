@@ -1,0 +1,12 @@
+# Large local dataset
+data/Census_Data.csv
+
+# Orange temporary / generated files
+*.bak
+*.tmp
+*.temp
+*~
+
+# macOS
+.DS_Store
+._*
